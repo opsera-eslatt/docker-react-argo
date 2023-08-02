@@ -22,7 +22,6 @@ spec:
       containers:
         - name: back-end
           image: eslattacr.azurecr.io/react-demo:644a8276c329e5750098b3ad83922ab74dc
-          imagePullPolicy: Always
 
 ---
 #Service
