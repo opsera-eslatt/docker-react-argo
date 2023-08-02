@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
         - name: back-end
-          image: edslattacr.azurecr.io/react-demo:b7d8ad2fe6236972b9b3b4d60427b2a2023
+          image: eslattacr.azurecr.io/react-demo:bf5eae7a7e6f26b4d9a182502f72d0fca36
           imagePullPolicy: Always
 
 ---
