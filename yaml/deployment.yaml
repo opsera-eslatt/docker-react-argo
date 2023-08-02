@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
         - name: back-end
-          image: eslattacr.azurecr.io/react-demo:644a8276c329e5750098b3ad83922ab74dc
+          image: eslattacr.azurecr.io/react-demo:6d598894e2666271bd3d8d02856f0f70632
 
 ---
 #Service
