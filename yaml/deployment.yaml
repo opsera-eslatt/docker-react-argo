@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
         - name: back-end
-          image: eslattacr.azurecr.io/react-demo:6d598894e2666271bd3d8d02856f0f70632
+          image: 792373136340.dkr.ecr.us-east-2.amazonaws.com/cisco_pov:3ce5a27b9ebdc480ea55bd23fe44b6117b1e691d
 
 ---
 #Service
